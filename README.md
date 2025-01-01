@@ -1,2 +1,3 @@
 # Music-Player
-A music player using html , css aur javascript .
+A music player using html , css aur javascript which uses api to fetch music online and play it by user . 
+New features to be added soon .....
